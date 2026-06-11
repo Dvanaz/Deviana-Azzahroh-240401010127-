@@ -44,7 +44,7 @@ Setiap notebook disusun sebagai dokumentasi proses pembelajaran dan praktik anal
 
 ---
 
-## 6. Kesimpulan
+## 5. Kesimpulan
 
 Praktikum Data Science pada pertemuan 1 sampai 7 memberikan pemahaman yang komprehensif mengenai tahapan dasar pengolahan dan analisis data menggunakan Python. Materi yang dipelajari mencakup penggunaan struktur data Python, manipulasi data dengan Pandas dan NumPy, pembersihan data, analisis statistik, visualisasi data, hingga pengenalan Machine Learning menggunakan regresi linier.
 
