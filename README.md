@@ -21,12 +21,12 @@ Setiap notebook disusun sebagai dokumentasi proses pembelajaran dan praktik anal
 
 | No | Topik                                                  | Notebook                                                                                        |
 | -- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| 1  | Pengenalan Data Science                                |(https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan1_DevianaAzzahroh_240401010127.ipynb)
-| 2  | Struktur Data Python, NumPy & Pandas                   |(https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan2_DevianaAzzahroh_240401010127.ipynb)
-| 3  | Data Cleaning: Missing Value, Outlier & Ekstraksi Data | https://github.com/USERNAME/DataScience/blob/main/Pertemuan3_DevianaAzzahroh_240401010127.ipynb |
-| 4  | Statistik Dasar & Analisis Data                        | https://github.com/USERNAME/DataScience/blob/main/Pertemuan4_DevianaAzzahroh_240401010127.ipynb |
-| 5  | Visualisasi Data dengan Matplotlib & Seaborn           | https://github.com/USERNAME/DataScience/blob/main/Pertemuan5_DevianaAzzahroh_240401010127.ipynb |
-| 6  | Persiapan Data untuk Machine Learning                  | https://github.com/USERNAME/DataScience/blob/main/Pertemuan6_DevianaAzzahroh_240401010127.ipynb |
+| 1  | Pengenalan Data Science                                | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan1_DevianaAzzahroh_240401010127.ipynb
+| 2  | Struktur Data Python, NumPy & Pandas                   | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan2_DevianaAzzahroh_240401010127.ipynb
+| 3  | Data Cleaning: Missing Value, Outlier & Ekstraksi Data | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan3_DevianaAzzahroh_240401010127.ipynb
+| 4  | Statistik Dasar & Analisis Data                        | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan4_DevianaAzzahroh_240401010127.ipynb
+| 5  | Statistik Dasar & Analisis Data                        | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan5_DevianaAzzahroh_240401010127.ipynb
+| 6  | Persiapan Data untuk Machine Learning                  | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan6_DevianaAzzahroh_240401010127.ipynb
 | 7  | Pengantar Machine Learning: Regresi Linier             | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan7_DevianaAzzahroh_240401010127.ipynb
 ---
 
